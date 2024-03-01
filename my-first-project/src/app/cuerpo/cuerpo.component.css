@@ -1,0 +1,16 @@
+.contenedor{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 15vh;
+    background-color: #F8CADD;
+    color: white;
+    font-weight: bold;
+}
